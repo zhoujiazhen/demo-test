@@ -1,0 +1,38 @@
+.el-header {
+  background-color: #409eff;
+}
+.el-footer {
+  background-color: #409eff;
+  color: white;
+}
+.el-header div {
+  float: left;
+  position: relative;
+  left: 20px;
+  top: -5px;
+  display: inline-block;
+}
+.el-header div a {
+  color: white;
+  text-decoration: none;
+}
+.el-aside {
+  height: 700px;
+}
+.el-main {
+  border: 2px green solid;
+}
+#user {
+  display: inline-block;
+  float: right;
+  position: relative;
+  top: 20px;
+  left: -20px;
+}
+.el-tree div :hover {
+  background-color: #979a9a;
+  color: white;
+}
+.el-tree div div {
+  height: 100px;
+}
